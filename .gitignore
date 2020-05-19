@@ -55,11 +55,11 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-config
+config/
 .env
 
 # next.js build output
 .next
 
 # uploaded file
-public/uploads
+public/uploads/
